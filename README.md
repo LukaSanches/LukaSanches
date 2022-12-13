@@ -2,10 +2,13 @@
 
 ### Sobre mim:
 
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://media.tenor.com/0WkmuOC_W00AAAAj/waving-pikachu.gif"/>
 
 
 ----
+
+<div>
+<img width = "178px" align="right" alt="pikachu" height="200px" src="https://media.tenor.com/0WkmuOC_W00AAAAj/waving-pikachu.gif"/>
+    </div>
 
 #### Linguagens e Tecnologias:
 <div style="display: inline_block">
