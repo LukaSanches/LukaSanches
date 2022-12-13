@@ -1,6 +1,8 @@
-# Olá, sou Luka Sanches!
+<h1 aling="center"> Olá, sou Luka Sanches! </h1>
 
 ### Sobre mim:
+
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://media.tenor.com/0WkmuOC_W00AAAAj/waving-pikachu.gif"/>
 
 
 ----
