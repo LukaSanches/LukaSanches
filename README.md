@@ -2,8 +2,8 @@
 
 ### Sobre mim
 <div>
-    <h4> Cursando Tecnologia da Informação na UFMS </h4>
-    <h4> 
+    #### Cursando Tecnologia da Informação na UFMS
+    #### Buscando novos conhecimentos no front-end
         
 <img width = "200px" align="right" alt="pikachu" height="178px" src="https://media.tenor.com/0WkmuOC_W00AAAAj/waving-pikachu.gif"/>
          </div>   
