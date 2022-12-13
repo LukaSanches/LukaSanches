@@ -1,16 +1,14 @@
 <h1 align="center"> Olá, sou Luka Sanches! </h1>
 
+<div>       
+<img width = "200px" align="right" alt="pikachu" height="178px" src="https://media.tenor.com/0WkmuOC_W00AAAAj/waving-pikachu.gif"/>
+</div> 
+
 ### Sobre mim
 
 #### ✍️ Cursando Tecnologia da Informação na UFMS
 #### 🔥  Buscando novos conhecimentos no front-end
-#### aaaaa
-#### aaaaa
-#### aaaaa
-#### aaaaa
-<div>       
-<img width = "200px" align="right" alt="pikachu" height="178px" src="https://media.tenor.com/0WkmuOC_W00AAAAj/waving-pikachu.gif"/>
-         </div>   
+  
 
 ### Linguagens e Tecnologias
 
