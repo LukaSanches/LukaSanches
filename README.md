@@ -1,12 +1,10 @@
-<h1 aling="center"> Olá, sou Luka Sanches! </h1>
+<h1 align="center"> Olá, sou Luka Sanches! </h1>
 
-### Sobre mim:
-
-
-
-----
-
+<h3> Sobre mim: </h3>
 <div>
+    <h4> Cursando Tecnologia da Informação na UFMS </h4>
+    <h4> 
+        
 <img width = "178px" align="right" alt="pikachu" height="200px" src="https://media.tenor.com/0WkmuOC_W00AAAAj/waving-pikachu.gif"/>
     </div>
 
