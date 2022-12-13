@@ -5,7 +5,7 @@
     <h4> Cursando Tecnologia da Informação na UFMS </h4>
     <h4> 
         
-<img width = "178px" align="right" alt="pikachu" height="200px" src="https://media.tenor.com/0WkmuOC_W00AAAAj/waving-pikachu.gif"/>
+<img width = "200px" align="right" alt="pikachu" height="178px" src="https://media.tenor.com/0WkmuOC_W00AAAAj/waving-pikachu.gif"/>
     </div>
 
 #### Linguagens e Tecnologias:
