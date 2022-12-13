@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-- ✍️ Cursando Tecnologia da Informação na UFMS
+- ✍️ Cursando Análise de Sistemas na UFMS
 - 🔥  Buscando novos conhecimentos no front-end
   
 
